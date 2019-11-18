@@ -12,7 +12,7 @@ A few tips before you start:
 4. Google will be your best friend. Learn to use it well. 
 
 ### Getting starting
-Complete each course in the order they are listed. Some of the courses may require you spent $10-$20 for the full version, but I'll prefer listing high quality free content when the I can.
+Complete each course in the order they are listed. Some of the courses may require you spend $10-$20 for the full version, but I'll prefer listing high quality free content when the I can.
 
 
 #### JavaScript
